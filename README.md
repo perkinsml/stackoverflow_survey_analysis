@@ -24,7 +24,7 @@ The notebook contains the code required to understand, prepare and visualise the
 </ol>
 
 # Installation
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.\*   
+There should be no libraries required to run the code in the notebook beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.\*   
 
 The code was developed using Python version 3.7.6 and Pandas 1.0.1.
 
@@ -32,4 +32,4 @@ The code was developed using Python version 3.7.6 and Pandas 1.0.1.
 The main findings of the code can be found at the <b>'9 things every budding Data Scientist should know'</b> post <a href='https://www.perkinsml.me/a-data-scientist-should-know'>here</a>.
 
 # Acknowledgment
-A big thanks to Stack Overflow for managing the annual Developer survey and sharing the cleaned and anonymised results publicly.  You can find the Licensing for the data <a href='https://opendatacommons.org/licenses/odbl/1.0/'>here</a>. Otherwise, feel free to use the code here as you would like!
+A big thanks to Stack Overflow for managing the annual Developer survey and sharing the cleaned and anonymised results publicly.  You can find the Licensing for the data <a href='https://opendatacommons.org/licenses/odbl/1.0/'>here</a>. Otherwise, feel free to use the code here as you wish!
