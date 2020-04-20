@@ -1,7 +1,7 @@
 # Project Motivation
 This project uses <a href='https://insights.stackoverflow.com/survey'>The Public 2019 Stack Overflow Developer Survey Results</a> to provide data-driven insights to some of the pressing questions I had when considering my career change into Data Science 2.5 years ago.
 
-This analysis is based on the responses from survey participants identifying as Data Scientist specialists and seeks to understand:
+This analysis is based on the responses from survey participants identifying as a 'Data Scientist or Machine Learning specialist' and seeks to understand:
 <ol>
     <li> The multi-faceted scope of the Data Scientist role</li>
     <li> Overall job satisfaction level</li>
