@@ -1,12 +1,12 @@
 # Project Motivation
-This project uses <a href='https://insights.stackoverflow.com/survey'>The Public 2019 Stack Overflow Developer Survey Results</a> to provide data-driven insights to some of the pressing questions I had when considering my career change into Data Science 2.5 years ago.
+This project uses <a href='https://insights.stackoverflow.com/survey'>The Public 2019 Stack Overflow Developer Survey Results</a> to provide data-driven insights to some of the pressing questions I had when considering my career change into Data Science several years ago.
 
 This analysis is based on the responses from survey participants identifying as a 'Data Scientist or Machine Learning specialist' and seeks to understand:
 <ol>
     <li> The multi-faceted scope of the Data Scientist role</li>
     <li> Overall job satisfaction level</li>
     <li> How job satisfaction varies by organisation size and Manager confidence level</li>
-    <li> The range of companies sizes employing Data Scientists</li>
+    <li> The range of companiy sizes employing Data Scientists</li>
     <li> Salary variations within and across countries</li>
     <li> The range and prevalence of programming languages applied by Data Scientists and how this relates to salary</li>
     <li> The drivers of job satisfaction</li>
